@@ -1,6 +1,6 @@
 #  Email Classification System
 
-##Professionals deal with an overwhelming number of emails daily.
+Professionals deal with an overwhelming number of emails daily.
 
 Spam, promotions, and phishing attacks often go unnoticed in the noise.
 
